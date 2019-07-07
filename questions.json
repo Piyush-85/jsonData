@@ -1,0 +1,17 @@
+{
+"questions":
+
+[
+
+ {
+ "question": ["Which property helps to initiate the HTTP requests?"],
+ "answerChoices": ["request", "location", "send", "write"],
+ "correctAnswerIndex": 1,
+ },
+ {
+ "question": ["Which method is an alternative of the property location of a window object?"],
+ "answerChoices": ["submit()", "locate()", "load()", "write()"],
+ "correctAnswerIndex": 0,
+ }
+ ]
+}

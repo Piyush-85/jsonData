@@ -1,0 +1,63 @@
+{
+"questions":[{
+ "question": "Which one is standard way to show popup in Java Script?",
+ "answerChoices": ["window.alert('cppbuzz');", "alert('cppbuzz');", "window('cppbuzz');", "alert('cppbuzz')"],
+ "correctAnswerIndex": 1,
+ "selectedAnswer": ""
+ },
+ {
+ "question": "Which method is an alternative of the property location of a window object?",
+ "answerChoices": ["submit()", "locate()", "load()", "write()"],
+ "correctAnswerIndex": 0,
+ "selectedAnswer": ""
+ },
+ {
+ "question": "What is the reason for avoiding the attributes property in the HTML DOM?",
+ "answerChoices": ["Found unnecessary", "Attributes don’t have attributes", "Attributes have attributes", "Considered irrelevant"],
+ "correctAnswerIndex": 1,
+ "selectedAnswer": ""
+  },
+  {
+ "question": "How is everything treated in HTML DOM?",
+ "answerChoices": ["Node", "Attributes", "Elements", "Arrays"],
+ "correctAnswerIndex": 0,
+ "selectedAnswer": ""
+  },
+  {
+ "question": "What is the work of the form control elements in the HTML DOM?",
+ "answerChoices": ["User Interface elements", "All the possible elements", "Debugging elements", "Collecting elements"],
+ "correctAnswerIndex": 0,
+ "selectedAnswer": ""
+  },
+  {
+ "question": "How are the objects organized in the HTML DOM?",
+ "answerChoices": ["Class-wise", "Queue", "Hierarchy", "Stack"],
+ "correctAnswerIndex": 2,
+ "selectedAnswer": ""
+  },
+  {
+ "question": "Which object is the top of the hierarchy?",
+ "answerChoices": ["Window Object", "Document Object", "Form Object", "Form Control Elements"],
+ "correctAnswerIndex": 0,
+ "selectedAnswer": ""
+  },
+  {
+ "question": "Which is the function that calls another function after a time interval?",
+ "answerChoices": ["setTimeout()", "setTime()", "callafter()", "timeSet()"],
+ "correctAnswerIndex": 0,
+ "selectedAnswer": ""
+  },
+  {
+ "question": "Which function is used to clear the timer value?",
+ "answerChoices": ["clearTimervalue()", "clearTimeout()", "clear()", "flush(timer)"],
+ "correctAnswerIndex": 1,
+ "selectedAnswer": ""
+  },
+  {
+ "question": "Which is the property used to position the object in the left of the screen?",
+ "answerChoices": ["object.position = left", "object = position.left", "object.style.left", "object.shiftleft"],
+ "correctAnswerIndex": 2,
+ "selectedAnswer": ""
+  }
+ ]
+}
